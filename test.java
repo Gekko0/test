@@ -1,5 +1,5 @@
 
 public class Test {
-  public Integer a;
+  public Double a;
   public String b; 
 }
